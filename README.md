@@ -1,6 +1,7 @@
 # Europython Prague
 
 https://ep2023.europython.eu/session/language-model-zen
+
 https://www.youtube.com/watch?v=hyUWefY40iw&themeRefresh=1
 
 LLM-Zen
